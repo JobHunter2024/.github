@@ -1,4 +1,4 @@
-# Job Hunter
+# Project details
 
 ### **Project name :** 
 Job Hunter
