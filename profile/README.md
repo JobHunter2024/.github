@@ -4,15 +4,15 @@
 Job Hunter
 
 ### **Member Names :**
-* Team Alpha
+**Team Alpha**
 * Roscan Teodor
 * Olaru Bianca
 
-* Team Beta
+**Team Beta**
 * Ciobanu Ana
 * Roca Maria-Magdalena
 
-* Team Gamma
+**Team Gamma**
 * Harton Amalia
 * Habasescu Andrei
 
