@@ -3,6 +3,9 @@
 ### **Project name :** 
 Job Hunter
 
+### **Short description :** 
+A project with the goal of aiding aspiring IT professionals find jobs quickly through gathering job offers across multiple sources and building meaningful links between the entities that define the market in a semantic Web 3.0 manner as opposed to the traditional algorithm based filtering.
+
 ### **Member Names :**
 **Team Alpha**
 * Roscan Teodor
