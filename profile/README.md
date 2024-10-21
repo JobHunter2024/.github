@@ -6,6 +6,12 @@ Job Hunter
 ### **Short description :** 
 A project with the goal of aiding aspiring IT professionals find jobs quickly through gathering job offers across multiple sources and building meaningful links between the entities that define the market in a semantic Web 3.0 manner as opposed to the traditional algorithm based filtering.
 
+**State of the Art**
+https://docs.google.com/document/d/1jCYu56blYTbKxmXL4R24dBW-94ddJHVdQLWzMqfAE74
+
+**C4 Diagram**
+https://lucid.app/lucidchart/3827bde2-b42a-48a3-8b31-005868221b10/edit?viewport_loc=2013%2C2174%2C2505%2C1371%2C0_0&invitationId=inv_afdc19a1-d9dc-4e4e-8fde-196effb2fa09
+
 ### **Member Names :**
 **Team Alpha**
 * Roscan Teodor
@@ -18,12 +24,6 @@ A project with the goal of aiding aspiring IT professionals find jobs quickly th
 **Team Gamma**
 * Harton Amalia
 * Habasescu Andrei
-
-**State of the Art**
-https://docs.google.com/document/d/1jCYu56blYTbKxmXL4R24dBW-94ddJHVdQLWzMqfAE74
-
-**C4 Diagram**
-https://lucid.app/lucidchart/3827bde2-b42a-48a3-8b31-005868221b10/edit?viewport_loc=2013%2C2174%2C2505%2C1371%2C0_0&invitationId=inv_afdc19a1-d9dc-4e4e-8fde-196effb2fa09
 
 ### **Coordinator :** 
 Irimia Cosmin
