@@ -6,6 +6,8 @@ Job Hunter
 ### **Short description :** 
 A project with the goal of aiding aspiring IT professionals find jobs quickly through gathering job offers across multiple sources and building meaningful links between the entities that define the market in a semantic Web 3.0 manner as opposed to the traditional algorithm based filtering.
 
+# Resources
+
 **State of the Art**
 https://docs.google.com/document/d/1jCYu56blYTbKxmXL4R24dBW-94ddJHVdQLWzMqfAE74
 
@@ -14,6 +16,8 @@ https://lucid.app/lucidchart/3827bde2-b42a-48a3-8b31-005868221b10/edit?viewport_
 
 **Jira Board**
 https://jobmonitor.atlassian.net/jira/software/projects/KAN/boards/1
+
+# Activity Reports
 
 **Week 3 Activity Report**
 https://docs.google.com/document/d/1ZB-pqlonnm3vGohDAfWlr3TtD9vNoqGUQgoNlQw03rA
