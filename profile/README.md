@@ -22,7 +22,7 @@ https://jobmonitor.atlassian.net/jira/software/projects/KAN/boards/1
 **Week 3 Activity Report**
 https://docs.google.com/document/d/1ZB-pqlonnm3vGohDAfWlr3TtD9vNoqGUQgoNlQw03rA
 
-### **Member Names :**
+# **Team Composition Breakdown :**
 **Team Alpha**
 * Roscan Teodor
 * Olaru Bianca
