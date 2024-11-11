@@ -27,6 +27,9 @@ https://docs.google.com/document/d/1ZB-pqlonnm3vGohDAfWlr3TtD9vNoqGUQgoNlQw03rA
 **Week 4 Activity Report**
 https://docs.google.com/document/d/1g7-SMzioqmb411Tbc4xw2QpUwIPVDUD1C6YnupZVu-0
 
+**Week 5 Activity Report**
+https://docs.google.com/document/d/1d2T31xItVAW7hdMgkJhYikjk7Uw-0GDZX8DDyrUNQH4
+
 # **Team Composition Breakdown :**
 **Team Alpha**
 * Roscan Teodor
