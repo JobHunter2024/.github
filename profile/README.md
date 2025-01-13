@@ -33,6 +33,25 @@ https://docs.google.com/document/d/1d2T31xItVAW7hdMgkJhYikjk7Uw-0GDZX8DDyrUNQH4
 **Week 7-8 Activity Report**
 https://docs.google.com/document/d/13tV5zTc13qxQYaYqMBlsqoIRxbC-VBYVRiw-cWS79uI/edit?usp=drive_link
 
+**Week 9-10 Activity Report**
+https://docs.google.com/document/d/1ukm2s3v75CuRrUVMMsDWUJ3A_hDdmreEnE0xl0SQm6I/edit?usp=drive_link
+
+**Week 11 Activity Report**
+https://docs.google.com/document/d/1b1ZNqZDRxILVHp7iiPwsDKiwYJczNw63zyAstTwy8gg/edit?usp=drive_link
+
+**Week 12 Activity Report**
+https://docs.google.com/document/d/1d4F0IdgJ1OE3Lvj1Gam53OFdAEAo-23RAgcSGYYpPJI/edit?usp=drive_link
+
+**Week 13 - Research Component Documents**
+https://drive.google.com/drive/folders/1Ei_zXwbNGgwzAbOABe8CnBXu9wxbqj03?usp=drive_link
+
+**BONUSES Reports**
+https://drive.google.com/drive/u/0/folders/1covnDJc1_kazdQrfXbJ6QCxNKJC3oJ99
+
+------------------------------- **Technical Report** -------------------------------
+https://docs.google.com/document/d/1s1b_x8RR0HpZ0OgpbesEjQMqBKcRRMHUSQLIbrQdOnA
+--------------------------------------------------------------------------------
+
 # **Team Composition Breakdown :**
 **Team Alpha**
 * Roscan Teodor
@@ -51,14 +70,3 @@ Irimia Cosmin
 
 ### **Contact Information :** 
 habasescuandrei1234@gmail.com
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
