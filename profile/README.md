@@ -52,6 +52,8 @@ https://drive.google.com/drive/u/0/folders/1covnDJc1_kazdQrfXbJ6QCxNKJC3oJ99
 https://docs.google.com/document/d/1s1b_x8RR0HpZ0OgpbesEjQMqBKcRRMHUSQLIbrQdOnA
 --------------------------------------------------------------------------------
 
+Demo Video : https://www.youtube.com/watch?v=0r2NvXf4dOI
+
 # **Team Composition Breakdown :**
 **Team Alpha**
 * Roscan Teodor
